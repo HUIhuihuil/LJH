@@ -1,7 +1,9 @@
 # QT detects identical files
 
-![](C:\Users\69503\Desktop\A.png)
+<img src="C:\Users\69503\Desktop\A.png" style="zoom:50%;" />
 
-![B](C:\Users\69503\Desktop\B.png)
+
+
+<img src="C:\Users\69503\Desktop\B.png" style="zoom:50%;" />
 
 Demo detects identical files using Qt.
